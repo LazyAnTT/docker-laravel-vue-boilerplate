@@ -18,7 +18,7 @@ Vue.js:
 ## Usage
 
 ```bash
-$ git clone https://github.com/silversink8888/docker-laravel-vue.git
+$ git clone https://github.com/LazyAnTT/docker-laravel-vue.git
 $ cd docker-laravel-vue
 $ docker-compose build
 $ docker-compose up -d
